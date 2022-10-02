@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DAZY/static/css/main.49c33377.css",
+    "main.js": "/DAZY/static/js/main.a9b7737f.js",
+    "static/media/ala.jpg": "/DAZY/static/media/ala.f9a650be7156f47bb6cb.jpg",
+    "static/media/ghayth.jpg": "/DAZY/static/media/ghayth.72527a40cb96a44da162.jpg",
+    "static/media/darine.jpg": "/DAZY/static/media/darine.2dee87abcbc5b7edc7a8.jpg",
+    "index.html": "/DAZY/index.html",
+    "main.49c33377.css.map": "/DAZY/static/css/main.49c33377.css.map",
+    "main.a9b7737f.js.map": "/DAZY/static/js/main.a9b7737f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c33377.css",
+    "static/js/main.a9b7737f.js"
+  ]
+}
